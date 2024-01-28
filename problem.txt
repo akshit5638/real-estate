@@ -1,0 +1,2 @@
+Always run npm run dev inside client folder
+I mistakenly downloded tailwind config outside client which cause error which took 2 hr to resolve so intall tailwind inside client
